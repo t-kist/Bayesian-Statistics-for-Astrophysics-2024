@@ -22,7 +22,7 @@ def get_favorite_number(name):
     elif name == 'Timo':
         n = 42
     elif name == 'Emily':
-        n = 29
+        n = 2
     else:
         raise ValueError("Person {:s} not recognized.".format(name))
 
