@@ -8,3 +8,9 @@ This is the webpage of the course Bayesian Statistics for Astrophysics 2024. Her
    :maxdepth: 2
 
    tutorial1/tutorial1
+   tutorial2/BASTA_chi2_multiverse
+
+
+.. toctree::
+   :caption: Lecture Notes
+   :maxdepth: 2
