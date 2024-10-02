@@ -21,6 +21,8 @@ def get_favorite_number(name):
         n = np.random.randint(1, 100)
     elif name == 'Timo':
         n = 42
+    elif name == 'Jelmer':
+        n = 27
     else:
         raise ValueError("Person {:s} not recognized.".format(name))
 
