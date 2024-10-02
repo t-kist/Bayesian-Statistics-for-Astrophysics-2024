@@ -15,7 +15,7 @@ def get_favorite_number(name):
             The favorite number of the person.
     """
 
-    if name == 'Alice':
+    if name == 'veer':
         n = np.pi
     elif name == 'Bob':
         n = np.random.randint(1, 100)
