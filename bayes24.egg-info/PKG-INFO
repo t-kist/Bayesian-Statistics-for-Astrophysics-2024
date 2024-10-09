@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: bayes24
+Version: 0.0.dev0
+Summary: Course materials for Bayesian Statistics for Astrophysics 2024
+Home-page: https://github.com/t-kist/Bayesian-Statistics-for-Astrophysics-2024
+Author: Timo Kist
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: ipython
+Requires-Dist: jupyter
+
+# Bayesian-Statistics-for-Astrophysics-2024
+
+This is the github repository of the course Bayesian Statistics for Astrophysics 2024. Here we will subsequently add more and more lecture material, and in particular the lecture notes that you will be working on in small groups.
+
+The notebook for the first tutorial can be found [here](<https://bayesian-statistics-for-astrophysics-2024.readthedocs.io/en/latest/tutorial1/tutorial1.html>).</br>
