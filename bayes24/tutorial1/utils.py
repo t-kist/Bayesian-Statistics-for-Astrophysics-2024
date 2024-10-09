@@ -23,6 +23,8 @@ def get_favorite_number(name):
         n = 42
     elif name == 'Revenna':
         n = 6
+    elif name == 'Myrdhin':
+        n = 3
     else:
         raise ValueError("Person {:s} not recognized.".format(name))
 
