@@ -15,8 +15,9 @@ This is the webpage of the course Bayesian Statistics for Astrophysics 2024. Her
    :caption: Lecture Notes
    :maxdepth: 2
 
-   lecture_notes/group3/chapter3
-   lecture_notes/group4/Chapter 4  skeleton
-   lecture_notes/group5/group5
-   lecture_notes/group6/Chapter 6
-   lecture_notes/group7/group7
+   "lecture_notes/group1/Chapter 1"
+   "lecture_notes/group3/chapter3"
+   "lecture_notes/group4/Chapter 4 skeleton"
+   "lecture_notes/group5/group5"
+   "lecture_notes/group6/Chapter 6"
+   "lecture_notes/group7/group7"
