@@ -4,6 +4,7 @@ readthedocs-sphinx-ext
 nbsphinx
 ipython
 ipykernel
+numpy
 Pygments
 sphinxcontrib-bibtex
 sphinxcontrib-svg2pdfconverter
