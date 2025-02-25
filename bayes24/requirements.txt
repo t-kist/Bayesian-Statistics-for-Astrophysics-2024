@@ -3,6 +3,7 @@ sphinx-rtd-theme
 readthedocs-sphinx-ext
 nbsphinx
 ipython
+ipykernel
 Pygments
 sphinxcontrib-bibtex
 sphinxcontrib-svg2pdfconverter
