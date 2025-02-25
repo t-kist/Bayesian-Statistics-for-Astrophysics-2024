@@ -18,7 +18,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Bayesian Statistics for Astrophysics 2024'
-copyright = '2024'
+copyright = '2024, Timo Kist, Sjoert van Velzen, [Bayesian Statistics for Astrophysics class of 2024]'
 author = 'Timo Kist, Sjoert van Velzen, [Bayesian Statistics for Astrophysics class of 2024]'
 
 # The full version, including alpha/beta/rc tags
